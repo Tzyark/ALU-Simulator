@@ -1,3 +1,3 @@
-# ALU_Simulator
+# ALU Simulator
 Final Assignment of Computer Organization and System Architecture
 For reference only :)
